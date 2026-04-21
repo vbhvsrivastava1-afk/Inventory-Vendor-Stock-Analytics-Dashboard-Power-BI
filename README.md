@@ -43,7 +43,11 @@ Power BI solution connected directly to SAP ERP data.
 | DAX | Inventory KPIs, ageing logic, drill-through |
 
 ## Screenshots
-[Add 2–3 dashboard screenshots here]
+<img width="1330" height="860" alt="Stock Dashboard" src="https://github.com/user-attachments/assets/93348ef4-2d3d-4a12-b5c9-79da3407f99f" />
+
+<img width="1322" height="856" alt="Vendor Dashboard" src="https://github.com/user-attachments/assets/f8aedacd-ee45-4336-9775-5091f5e651a8" />
+<img width="1326" height="865" alt="Process Wise Stock" src="https://github.com/user-attachments/assets/1be12f5c-cf27-47e9-be3f-6725e027dfea" />
+
 
 ## Data note
 All data in this repo uses anonymised/sample data.
